@@ -1,0 +1,20 @@
+{
+  "name": "TrEd 2.0\n",
+  "slug": "",
+  "releaseYear": 2010,
+  "icon": null,
+  "screenshot": null,
+  "paperUrl": null,
+  "codeUrl": null,
+  "dataTypes": ["dependency-tree"],
+  "importFormats": ["xml"],
+  "exportFormats": ["xml"],
+  "freeness": "closed-source",
+  "keywords": [],
+  "description": "TrEd is a fully customizable and programmable graphical editor and viewer for tree-like structures.",
+  "review": {
+    "reviewer": null,
+    "date": null,
+    "body": null
+  }
+}
